@@ -82,4 +82,4 @@ Provides:
 - Member 2   NIKUZE Josiane           24rp02358
 - Member 3   MUGISHA Girbert          24rp03663
 - Member 4   UMUTONI Angela           24rp09732
-- Member 5   NIYONIRINGIYE Jean Paul  24rp
+- Member 5   NIYONIRINGIYE Jean Paul  24rp00812
